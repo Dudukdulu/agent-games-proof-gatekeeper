@@ -1,0 +1,6 @@
+node_modules/
+.env
+server/seen.json
+server/salt.json
+server/server.log
+*.log

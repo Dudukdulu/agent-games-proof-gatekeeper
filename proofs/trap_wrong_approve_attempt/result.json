@@ -1,0 +1,6 @@
+{
+  "scenario": "trap_wrong_approve_attempt",
+  "decision": "APPROVE (forced, wrong)",
+  "witness": "FAILED: Assert Failed. Error in template GatekeeperEvaluation_79 line: 102 ",
+  "note": "Correct: a wrong APPROVE cannot produce a proof (fail-closed)."
+}

@@ -1,0 +1,44 @@
+{
+  "task": {
+    "registeredVk": "0x6b79c6012a6d8651f3e13bc4d2a20370280ab49700c90c5316d4168bfbad77b0",
+    "proofVk": "0x6b79c6012a6d8651f3e13bc4d2a20370280ab49700c90c5316d4168bfbad77b0",
+    "minimum": "1000",
+    "publicBalance": "1460",
+    "amount": "500",
+    "maxTransfer": "1000",
+    "currentBlock": "19832000",
+    "expiryBlock": "19842201",
+    "recipient": "0x6E8f6B9c2E1F3a5D8c4B7a1E2d3F4a5B6c7D8e9",
+    "conditionRecipient": "0x6E8f6B9c2E1F3a5D8c4B7a1E2d3F4a5B6c7D8e9",
+    "proofUnused": true
+  },
+  "taskId": 20261115001,
+  "salt": "98765432109876543210",
+  "decision": {
+    "decision": "APPROVE",
+    "reason_code": "VALID_CONDITION",
+    "checks": {
+      "vk_match": true,
+      "balance_sufficient": true,
+      "recipient_match": true,
+      "amount_within_cap": true,
+      "not_expired": true,
+      "proof_unused": true
+    }
+  },
+  "inputsByField8": {
+    "2": "4836144126773920907502496244340012141761656471453348073975163706578152814510",
+    "3": "4836144126773920907502496244340012141761656471453348073975163706578152814510",
+    "4": "1000",
+    "5": "1460",
+    "6": "1",
+    "7": "0",
+    "8": "39449210344622674849237056640300794180190853353",
+    "9": "39449210344622674849237056640300794180190853353",
+    "10": "19832000",
+    "11": "19842201",
+    "12": "1",
+    "13": "20261115001",
+    "14": "98765432109876543210"
+  }
+}
